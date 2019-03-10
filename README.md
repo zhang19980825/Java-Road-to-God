@@ -10,8 +10,9 @@ Other languages:
 
 
 本项目包含了春招秋招复习的知识点，作者尽自己的最大努力持续更新，包含一些面试的知识点，读书笔记，学习路线等等。作者西安一名双非渣本大三学生，由于大学学的是电子信息工程专业，所以要走计算机这条路会比别人会难，但是事在人为，时间还有，相信六个月时间足以改变一切。当然也欢迎志同道合的朋友和我一起维护这个项目，对这个项目贡献出自己的绵薄之力。欢迎大家骚扰我哈。。
-<div style="text-align:center;"><img src="http://tu.027cgb.com/613363/wechat.png"></div>
-
+<div align="center">
+    <img src="http://tu.027cgb.com/613363/wechat.png" width="200px">
+<br>
 
 
 
