@@ -129,7 +129,7 @@ static {
 public final class String
     implements java.io.Serializable, Comparable<String>, CharSequence
 ```
-首先String是由final关键修饰的也就是说String对象是不可变量，j仅仅是说String对象的引用不可变，但里面的字符串的值还是可以进行改变的。  
+首先String是由final关键修饰的也就是说String对象是不可变量，仅仅是说String对象的引用不可变，但里面的字符串的值还是可以进行改变的。  
 #### String的equals方法：
 ```
 public boolean equals(Object anObject) {
@@ -183,7 +183,7 @@ String str3 = “abc”;
 String str4 = new String(“abc”);
 String str5 = new String(“abc”);
 ``` 
-![String](https://sfault-image.b0.upaiyun.com/367/903/367903008-5951291f92d71)
+![String](https://sfault-image.b0.upaiyun.com/367/903/367903008-5951291f92d71)  
 最后分享两个常见的这块的面试题：  
 1.String str4 = new String(“abc”) 创建多少个对象？  
 new String的话无论字符串常量池中有没有此对象都会重新创建一个，
