@@ -20,4 +20,5 @@ Other languages:
 ## :coffee: Java
 - [Java基础](https://github.com/zhang19980825/Java-Road-to-God/blob/master/notes/Java%E5%9F%BA%E7%A1%80/Java%E5%9F%BA%E7%A1%80.md)
 - [Java集合]()
-- [Java并发]()
+- [Java并发](https://github.com/zhang19980825/Java-Road-to-God/blob/master/notes/Java%E5%B9%B6%E5%8F%91/Java%E5%B9%B6%E5%8F%91.md)
+- [Java虚拟机](https://github.com/zhang19980825/Java-Road-to-God/blob/master/notes/Java%E8%99%9A%E6%8B%9F%E6%9C%BA/Java%E8%99%9A%E6%8B%9F%E6%9C%BA.md)
