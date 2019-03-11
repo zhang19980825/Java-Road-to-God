@@ -21,7 +21,8 @@ d.子类抛出的异常类型小于等于父类抛出的异常类型
 ### 2.Obiect类源码分析
 ![image](http://tu.027cgb.com/613363/object.png)
 ### 3.八大基本包装类型
-byte<char<short<int<long<float<double
+byte<char<short<int<long<float<double    
+
 ![eight](http://tu.027cgb.com/613363/031101.png)  
 感觉面试最常问的应该就是Integer的源码和自动拆装箱了  
 **Integer源码分析：**  
